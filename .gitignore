@@ -3,3 +3,7 @@ venv/
 env/
 mkdir semana02 semana03 projetos
 git status
+**/.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+
