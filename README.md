@@ -144,7 +144,7 @@ Desenvolver habilidades práticas em:
 
 - **GitHub:** [github.com/brunodrade88-cell](https://github.com/brunodrade88-cell)
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(atualizar)*
-- **Email:** seu.email@exemplo.com *(atualizar)*
+- **Email:** brunodrade88@icloud.com
 
 ---
 
